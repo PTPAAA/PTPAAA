@@ -1,8 +1,3 @@
-### Hi 👋
+PTPAAA
 
-我是 PTPAAA，一个喜欢折腾的开发者。
-
-平时做的东西比较杂：
-
-- [生存斧AXEDEV](https://www.axe.ink) — MinecraftPE
-- [beszel-mobile](https://github.com/PTPAAA/beszel-mobile) — Beszel 移动端
+* [SCAXE-GO](https://github.com/ScaxeTeam/SCAXE-GO) — 用 Go 编写的 MCPE 0.14.x 服务端核心
